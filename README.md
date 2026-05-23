@@ -1,5 +1,4 @@
-
-# toolzpp - C++ 工具库
+# toolzpp - C++ToolLib
 
 一个轻量级、 header-only 的 C++ 工具库，提供日常开发中常用的函数和数据结构。
 ### 介绍
